@@ -7,7 +7,8 @@
 <i>/spawners (spawner, mobspawner, mobspawners)</i> | A loja de spawners do plug-in<br>
 
 <h2>Dependências</h2>
-<i>- Vault</i> | Para a loja de spawners<br>
+> :warning: Não são obrigatórios, porém sem eles a loja do plug-in e upgrades dos spawners não funcionarão.<br><br><br>
+<i>- Vault</i> | Para a loja de spawners<br> 
 <i>- Qualquer plugin de economia</i> | Para o funcionamento do Vault
 
 <h1>Imagens do Plug-in</h1>
