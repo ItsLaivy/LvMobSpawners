@@ -1,0 +1,13 @@
+name: LvMobSpawners
+version: 2.0
+main: codes.laivy.lvmobspawners.LvMobSpawners
+author: DanielZinh#7616
+description: "Plugin de mob spawners"
+api-version: 1.16
+
+softdepend:
+  - Vault
+
+commands:
+  spawners:
+    aliases: [spawner, mobspawner, mobspawners]
